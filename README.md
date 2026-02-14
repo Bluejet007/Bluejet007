@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=Bluejet007&label=Profile%20views&color=0e75b6&style=flat" alt="Bluejet007" />
+
 <!--
 **Bluejet007/Bluejet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
